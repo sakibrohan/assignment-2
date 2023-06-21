@@ -1,0 +1,155 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+}
+.section-1{
+    display: flex;
+}
+.section-1{
+    background-image: url(shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.section-1-div{
+    width: 30%;
+    margin-bottom: 120px;
+}
+.section-1-div img{
+    width: 140%;
+    padding-top: 60px;
+}
+.color{
+    color: rgb(247, 161, 2);
+}
+h1{
+    font-size: 50px;
+    color: grey;
+}
+.section-1-div a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(247, 161, 2);
+    border-radius: 20px;
+    padding: 10px 30px;
+    background-image: linear-gradient(rgb(255, 0, 43), rgb(253, 138, 6));
+}
+.section-1-div p{
+    width: 450px;
+    font-weight: 100;
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+.div1{
+    padding-left: 400px;
+    padding-top: 200px;
+}
+.section-2-div a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(247, 161, 2);
+    border-radius: 20px;
+    padding: 10px 30px;
+    background-image: linear-gradient(rgb(255, 0, 43), rgb(253, 138, 6));
+}
+.section-2{
+    display: flex;
+}
+.section-2-div{
+    width: 50%;
+    height: 603px;
+    padding-top: 130px;
+}
+.section-2-div img{
+    padding-left: 300px;
+    width: 40%;
+}
+.section-2-div p{
+    width: 450px;
+    font-weight: 100;
+    margin-bottom: 40px;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.h2{
+    font-size: 50px;
+    color: grey;
+}
+.section-2{
+    background-image: url(shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.section-3 p{
+    font-weight: 100;
+    font-size: 20px;
+}
+.section-3{
+    width: 50%;
+    padding-left: 25%;
+    padding-right: 25%;
+    text-align: center;
+    background-image: url(shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.food1{
+    font-size: 30px;
+}
+.section-4-div{
+    display: flex;
+}
+.section-4 p{
+    font-size: 20px;
+}
+.hello{
+    width: 100%;
+}
+.three{
+    width: 45%;
+    margin-left: 5%;
+    margin-right:5%;
+    margin-top: 3%;
+}
+.three1{
+    box-shadow: 20px 20px 30px grey;
+    padding: 30px;
+    border-radius: 40px;
+    background-color: white;
+}
+.section-4{
+    background-image: url(shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+
+    height: 900px;
+}
+.section-5-div{
+    display: flex;
+}
+.footer{
+    margin-left: 15%;
+    margin-right: 5%;
+    width: 10%;
+}
+.section-5-div{
+    box-shadow: 20px 20px 20px grey;
+    padding: 30px;
+    border-radius: 40px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 4%;
+    border: 1px solid black;
+    margin-bottom: 150px;
+    background-image: url(shapes/Frame\ 56.jpg);
+    background-repeat: no-repeat;
+}
+.section-6{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-bottom: 200px;
+    padding-top: 150px;
+}
